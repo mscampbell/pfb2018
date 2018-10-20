@@ -13,3 +13,9 @@
 1. Use cat and pipe the sam file into a python script that will read each line from the pipe.
 2. Us the MI tags to calculate the numbner of reads per molecule.
 3. Stretch goal Use the MI tags and the alignment position to estimate the average molecule length
+
+# GFF3 ([protien_coding_genes.gff](../input_files/protien_coding_genes.gff))
+1. Calculate the number of genes in the file.
+2. What is the average gene length?
+3. Use the exon feature types and the parent information in column 9 to calculate the average number of exons per transcript. 
+4. Stretch goal Use the GFF3 file to reconstruct the CDS of a gene and translate it into amino acids.
