@@ -18,4 +18,4 @@
 1. Calculate the number of genes in the file.
 2. What is the average gene length?
 3. Use the exon feature types and the parent information in column 9 to calculate the average number of exons per transcript. 
-4. Stretch goal Use the GFF3 file to reconstruct the CDS of a gene and translate it into amino acids.
+4. Stretch goal: Use the GFF3 file to reconstruct the CDS of a gene and translate it into amino acids.
